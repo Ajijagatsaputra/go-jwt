@@ -35,13 +35,7 @@ Pastikan Anda telah menginstal komponen-komponen berikut:
     git clone https://github.com/Ajijagatsaputra/go-jwt.git
     cd go-jwt
     ```
-
-2.  **Environment Variables:**
-    Buat file `.env` di *root* direktori dan isi dengan konfigurasi Anda.
-
-    ```
-
-3.  **Run Locally:**
+2.  **Run Locally:**
     ```bash
     go mod init
     go run .
